@@ -1,0 +1,8 @@
+[Wufoo]
+wf_user=
+wf_apikey=
+
+[Cloudant]
+db_url=https://[username].cloudant.com/[database]/
+db_user=[Cloudant username]
+db_pass=[password]
