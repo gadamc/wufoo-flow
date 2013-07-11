@@ -2,6 +2,7 @@
 wf_user=[username]
 wf_apikey= YOUR API KEY
 wf_url=https://[username].wufoo.com/api/v3/
+wf_formid=[form title or hash]
 
 [Cloudant]
 db_url=https://[username].cloudant.com/[database]/
