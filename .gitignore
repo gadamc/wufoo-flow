@@ -1,4 +1,5 @@
 wufoo.ini
+wufoo.cloudant.ini
 
 *.py[cod]
 
